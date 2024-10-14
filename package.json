@@ -1,0 +1,23 @@
+{
+  "name": "store-server",
+  "version": "1.0.0",
+  "description": "backend server about course nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RockFercho/store-server.git"
+  },
+  "author": "Roger Choquehuanca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RockFercho/store-server/issues"
+  },
+  "homepage": "https://github.com/RockFercho/store-server#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
